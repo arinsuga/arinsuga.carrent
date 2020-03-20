@@ -1,0 +1,39 @@
+﻿@model APPBASE.Models.Car
+
+@{
+    ViewData["Title"] = "Add Car";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<form asp-controller="Car" asp-action="Create" method="post">
+    <!-- Input and Submit elements -->
+    <div class="row">
+        <div class="col-md-4">
+            <label> Car Name</label>
+            <input type="text" name="brand" value="@Model.brand" />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <label> Car Year</label>
+            <input type="text" name="year" value="@Model.year" />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <label> Rental Price</label>
+            <input type="text" name="price" value="@Model.price" />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <button type="submit">Save</button>
+        </div>
+    </div>
+
+
+</form>

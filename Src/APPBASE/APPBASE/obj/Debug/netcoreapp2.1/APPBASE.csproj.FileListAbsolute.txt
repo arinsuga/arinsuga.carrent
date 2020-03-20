@@ -29,4 +29,8 @@ E:\arns\ddtech\arinsuga.carrent\Src\APPBASE\APPBASE\obj\Debug\netcoreapp2.1\APPB
 E:\arns\ddtech\arinsuga.carrent\Src\APPBASE\APPBASE\obj\Debug\netcoreapp2.1\APPBASE.dll
 E:\arns\ddtech\arinsuga.carrent\Src\APPBASE\APPBASE\obj\Debug\netcoreapp2.1\APPBASE.pdb
 E:\arns\ddtech\arinsuga.carrent\Src\APPBASE\APPBASE\obj\Debug\netcoreapp2.1\APPBASE.csproj.CopyComplete
-E:\arns\ddtech\arinsuga.carrent\Src\APPBASE\APPBASE\obj\Debug\netcoreapp2.1\APPBASE.csprojAssemblyReference.cache
+E:\arns\ddtech\arinsuga.carrent\Src\APPBASE\APPBASE\obj\Debug\netcoreapp2.1\Razor\Views\Car\Index.g.cshtml.cs
+E:\arns\ddtech\arinsuga.carrent\Src\APPBASE\APPBASE\obj\Debug\netcoreapp2.1\Razor\Views\Car\Create.g.cshtml.cs
+E:\arns\ddtech\arinsuga.carrent\Src\APPBASE\APPBASE\obj\Debug\netcoreapp2.1\Razor\Views\Rental\Create.g.cshtml.cs
+E:\arns\ddtech\arinsuga.carrent\Src\APPBASE\APPBASE\obj\Debug\netcoreapp2.1\Razor\Views\Rental\Index.g.cshtml.cs
+E:\arns\ddtech\arinsuga.carrent\Src\APPBASE\APPBASE\obj\Debug\netcoreapp2.1\Razor\Views\Rental\Privacy.g.cshtml.cs
